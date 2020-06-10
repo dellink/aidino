@@ -1,13 +1,12 @@
 {
   "name": "aidino",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple AI bot for chrome dino game using playwright",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "playwright", "dinosaur-game"],
   "license": "ISC",
   "dependencies": {
     "playwright-chromium": "^1.0.2"
