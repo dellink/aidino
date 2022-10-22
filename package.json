@@ -9,6 +9,6 @@
   "keywords": ["javascript", "playwright", "dinosaur-game"],
   "license": "ISC",
   "dependencies": {
-    "playwright-chromium": "^1.0.2"
+    "playwright-chromium": "^1.27.1"
   }
 }
