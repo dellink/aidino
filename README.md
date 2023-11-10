@@ -1,5 +1,5 @@
 # aidino
-A simple AI bot for chrome dino game using [playwright](https://github.com/microsoft/playwright)
+A simple bot for chrome dino game using [playwright](https://github.com/microsoft/playwright)
 
 <br>
 <p align="center">
